@@ -50,3 +50,6 @@ con đại bàng
 gấu koala
 lợn
 hải cẩu
+sư tử
+hổ 
+báo 
