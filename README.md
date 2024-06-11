@@ -43,3 +43,7 @@ con bò
 con hổ
 con chim
 con voi
+
+con cá
+con bọ
+con đại bàng
