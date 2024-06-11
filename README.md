@@ -39,3 +39,7 @@ cò 3
 con gà
 con heo
 con bò
+
+con hổ
+con chim
+con voi
