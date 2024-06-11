@@ -47,3 +47,12 @@ con voi
 con cá
 con bọ
 con đại bàng
+gấu koala
+lợn
+hải cẩu
+sư tử
+hổ 
+báo 
+linh dương
+nai
+tê tê
