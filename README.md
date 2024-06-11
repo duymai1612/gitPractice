@@ -5,3 +5,6 @@ rắn
 sói
 hổ
 báo
+voi
+tê giác
+gấu
