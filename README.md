@@ -47,3 +47,6 @@ con voi
 con cá
 con bọ
 con đại bàng
+gấu koala
+lợn
+hải cẩu
