@@ -1,4 +1,5 @@
 # gitPractice
+<<<<<<< HEAD
 
 mèo 1
 mèo 2
@@ -12,3 +13,14 @@ Khỉ
 Gà 1
 Gà 2 
 Gà 3
+=======
+nhện 
+rắn
+ếch
+sói
+hổ
+báo
+voi
+tê giác
+gấu
+>>>>>>> Nghia
