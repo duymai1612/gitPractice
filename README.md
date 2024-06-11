@@ -1,1 +1,4 @@
 # gitPractice
+Chó 
+Gà 
+Heo
