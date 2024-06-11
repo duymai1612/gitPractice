@@ -36,3 +36,14 @@ chó 3
 cò 1
 cò 2
 cò 3
+con gà
+con heo
+con bò
+
+con hổ
+con chim
+con voi
+
+con cá
+con bọ
+con đại bàng
